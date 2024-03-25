@@ -1,0 +1,6 @@
+{
+    "ip_address": "127.0.0.1",
+    "serverport": 25567,
+    "clientport": 25568,
+    "accesstry": 10
+}
